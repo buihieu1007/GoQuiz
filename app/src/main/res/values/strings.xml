@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="really_long_string">
+Chào mừng đến với trò chơi GoQuiz - nơi bạn có cơ hội thách thức bản thân và mở rộng kiến thức của mình qua nhiều chủ đề khác nhau! Với mỗi lượt chơi, bạn sẽ bước vào một hành trình tri thức đa dạng, từ Lịch sử đến Địa lý, từ Khoa học đến Nghệ thuật. \nBạn có thể lựa chọn độ khó của câu hỏi để điều chỉnh cấp độ thách thức phù hợp với kiến thức và kỹ năng của mình. Bạn muốn kiểm tra kiến thức cơ bản? Hãy chọn cấp độ dễ. Bạn đang tìm kiếm một thách thức cao hơn? Hãy thử sức với cấp độ khó và chứng minh khả năng đánh bại những câu hỏi phức tạp.\nKhông chỉ là một trò chơi giáo dục thú vị, GoQuiz còn là nơi để bạn xây dựng và theo dõi thành tích cá nhân của mình. Mỗi lần chơi, hệ thống sẽ ghi lại điểm số của bạn và theo dõi sự tiến bộ theo thời gian. Bạn có thể thấy rõ sự phát triển kiến thức của mình và thách thức bản thân để đạt được điểm số cao hơn mỗi lần chơi.\nDù bạn là người yêu thích học hỏi hay chỉ đơn giản là muốn trải nghiệm niềm vui của việc thách thức trí óc, GoQuiz sẽ mang lại trải nghiệm thú vị và bổ ích. Hãy chuẩn bị cho một hành trình qua biển tri thức và khám phá thế giới qua những câu hỏi hấp dẫn!\n
+    </string>
+    <string-array name="simple_items">
+        <item name="item1">Địa lý</item>
+        <item name="item2">Toán học</item>
+        <item name="item3">Lịch sử</item>
+        <item name="item4">Hóa học</item>
+        <item name="item5">Vật lý</item>
+        <item name="item6">Sinh học</item>
+    </string-array>
+</resources>
