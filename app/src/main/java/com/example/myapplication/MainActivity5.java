@@ -338,7 +338,7 @@ public class MainActivity5 extends AppCompatActivity {
             }
             else if ("".equals(SubjectFilter.getEditText().getText().toString()))
             {
-                questionAdapter = new QuestionAdapter(QuestionArray1);
+                questionAdapter = new QuestionAdapter(QuestionArray);
                 myList.setAdapter(questionAdapter);
             }
             else {
