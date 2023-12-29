@@ -341,6 +341,10 @@ public class MainActivity5 extends AppCompatActivity {
                 questionAdapter = new QuestionAdapter(QuestionArray1);
                 myList.setAdapter(questionAdapter);
             }
+            else {
+                questionAdapter = new QuestionAdapter(QuestionArray7);
+                myList.setAdapter(questionAdapter);
+            }
         });
         myList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
